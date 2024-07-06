@@ -1,8 +1,9 @@
 #include <cppunit/TestCase.h>
 
+
 class BasicTest : public CppUnit::TestCase {
     public:
-    BasicTest(std::string name) : CppUnit::TestCase(name) {};
+    BasicTest(std::string name) : CppUnit::TestCase(name) {}
 
     void runTest() override
     {
