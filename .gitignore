@@ -1,2 +1,6 @@
 /testfall
 /testrunner
+/web_api_testing/mocha_basics/node_modules
+/web_api_testing/mocha_basics/package-lock.json
+/web_api_testing/norestforthewiccad/node_modules
+/web_api_testing/norestforthewiccad/package-lock.json
