@@ -1,0 +1,14 @@
+{
+  "name": "web_api_testing",
+  "version": "1.0.0",
+  "main": "something.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^10.6.0"
+  }
+}
